@@ -1,0 +1,6 @@
+flask
+flask_session
+pandas
+openpyxl
+werkzeug
+gunicorn
