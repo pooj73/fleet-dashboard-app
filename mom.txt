@@ -1,0 +1,6 @@
+signup page 
+login
+dashboard of ownwership 
+generate  trip trip closure  trip  auditor trip ongoing
+  final code working but not up  final 2    working correct but 3dashboard ok 
+final3 workingwith grapog dropdownn ok 

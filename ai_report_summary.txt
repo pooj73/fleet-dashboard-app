@@ -1,0 +1,19 @@
+
+📊 AI Report Highlights:
+
+Total Trips: 50
+On-going Trips: 19
+Completed Trips: 15
+Profit Percentage: 21.7%
+
+Financials:
+- Revenue: ₹1.31M
+- Expense: ₹1.03M
+- Profit: ₹0.28M
+- KMs Travelled: 36.8K
+- Cost per KM: ₹7.74
+
+AI Insights:
+- Top Vehicle: VH048
+- Average Profit per Trip: ₹5695.34
+- Top Routes: N/A
